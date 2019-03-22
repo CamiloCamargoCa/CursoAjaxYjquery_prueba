@@ -1,0 +1,27 @@
+{
+	"empleados": [{
+			"nombre": "luis",
+			"apellido": "gomez",
+			"edad": 20
+		},
+		{
+			"nombre": "Ernesto",
+			"apellido": "Lara",
+			"edad": 23
+		},
+		{
+			"nombre": "Sivia",
+			"apellido": "Rodriguez",
+			"edad": 24
+		},
+		{
+			"nombre": "Carlos",
+			"apellido": "Zambrano",
+			"edad": 27
+		},
+		{
+			"nombre": "Julia",
+			"apellido": "Vasquez",
+			"edad": 28
+	}]
+}
